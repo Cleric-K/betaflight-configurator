@@ -2242,7 +2242,7 @@
         "message": "<strong>Note</strong>: Leaving CLI tab or pressing Disconnect will <strong>automatically</strong> send \"<strong>exit</strong>\" to the board.  With the latest firmware this will make the controller <span class=\"message-negative\">restart</span> and unsaved changes will be <span class=\"message-negative\">lost</span>."
     },
     "cliInputPlaceholder": {
-        "message": "Write your command here"
+        "message": "Write your command here. Press Tab for Autocomplete."
     },
     "cliEnter": {
         "message": "CLI mode detected"
@@ -4154,5 +4154,8 @@
     },
     "flashTab": {
         "message": "Update Firmware"
+    },
+    "cliAutoComplete": {
+        "message": "Advanced CLI AutoComplete"
     }
 }
